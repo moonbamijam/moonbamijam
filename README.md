@@ -5,7 +5,7 @@
   <img alt="Kessoku Band" src="https://media.tenor.com/ytDQAboR4BsAAAAd/bocchi-the-rock.gif">
 </p>
 
-<img align="right" alt="Kita Ikuyo" src="https://media.tenor.com/aPcq8d1WewsAAAAC/bocchi-the-rock-kita-ikuyo.gif">
+<img align="right" width="300" alt="Kita Ikuyo" src="https://media.tenor.com/aPcq8d1WewsAAAAC/bocchi-the-rock-kita-ikuyo.gif">
 
 - 🔭 I’m currently working on [Tsukiwa](https://github.com/MoonbamiOfficial/tsukiwa-web)
 
