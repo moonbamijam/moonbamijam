@@ -7,7 +7,7 @@
 
 <img align="right" width="300" alt="Kita Ikuyo" src="https://media.tenor.com/aPcq8d1WewsAAAAC/bocchi-the-rock-kita-ikuyo.gif">
 
-- 🔭 I’m currently working on [Tsukiwa](https://github.com/MoonbamiOfficial/tsukiwa-web)
+- 🔭 I’m currently working on [Tsukiwa](https://github.com/MoonbamiOfficial/tsukiwa-web) & [Realpop](https://github.com/MoonbamiOfficial/realpop-web)
 
 - 🌱 I’m currently learning **TypeScript, NextJS, Python, Django and C#**
 
