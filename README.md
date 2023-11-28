@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">Currently pursuing a career for being a full-stack web developer. I am still a novice, but I am making progress and learning on a daily basis.</h3>
+<h3 align="center">Currently pursuing a career for being a full-stack web developer.<br> I am still a novice, but I am making progress and learning on a daily basis.</h3>
 
 ###
 
