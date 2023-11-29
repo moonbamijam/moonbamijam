@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://media.tenor.com/EzLBROCssEMAAAAd/newjeans-new-jeans.gif"  />
+  <img height="300" src="https://media.tenor.com/EzLBROCssEMAAAAd/newjeans-new-jeans.gif"  />
 </div>
 
 ###
@@ -68,9 +68,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MoonbamiOfficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MoonbamiOfficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonbamiOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MoonbamiOfficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&date_format=M%20j%5B,%20Y%5D" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoonbamiOfficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonbamiOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
 ###
@@ -80,7 +80,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://media.tenor.com/KFGujQm3ZO8AAAAd/newjeans-hanni.gif"  />
+  <img height="300" src="https://media.tenor.com/KFGujQm3ZO8AAAAd/newjeans-hanni.gif"  />
 </div>
 
 ###
