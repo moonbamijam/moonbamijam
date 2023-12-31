@@ -28,9 +28,8 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://github.com/MoonbamiOfficial/MoonbamiOfficial/assets/141120384/080b53ec-7b2c-4a83-a5ce-fb40c2b8d58e"  />
+  <img height="400" src="https://github.com/MoonbamiOfficial/MoonbamiOfficial/assets/141120384/a642b6f4-5312-4869-ad36-3e05c02d6bbc"  />
 </div>
-
 
 ###
 
