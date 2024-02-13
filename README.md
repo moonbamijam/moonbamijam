@@ -88,7 +88,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/_OUUBCCpl2gAAAAC/akane-kurokawa-aikane.gif"  />
+  <img height="300" src="https://media.tenor.com/vUyzh_kWjAgAAAAM/akane-kurokawa-akane-oshi-no-ko.gif"  />
 </div>
 
 ###
