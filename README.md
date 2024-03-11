@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MoonbamiOfficial/MoonbamiOfficial/assets/141120384/ccee5d2e-2728-4178-a35e-a0705d951fed)
+![MasterHead](https://github.com/MoonbamiOfficial/MoonbamiOfficial/assets/141120384/390eb4c0-8fc5-4101-95ca-94fc34307a22)
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" />, I am Moonbami!</h1>
 
 ###
