@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MoonbamiOfficial/MoonbamiOfficial/assets/141120384/390eb4c0-8fc5-4101-95ca-94fc34307a22)
+![MasterHead](https://github.com/MoonbamiOfficial/MoonbamiOfficial/assets/141120384/5903235e-b682-41e3-9c33-f839632e3338)
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" />, I am Moonbami!</h1>
 
 ###
@@ -8,12 +8,14 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://github.com/MoonbamiOfficial/MoonbamiOfficial/assets/141120384/5903235e-b682-41e3-9c33-f839632e3338"  />
+  <img src="https://streak-stats.demolab.com?user=MoonbamiOfficial&locale=en&mode=daily&theme=react&hide_border=true&border_radius=0&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoonbamiOfficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonbamiOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="center">Stacks and Stats</h2>
+<h2 align="center">Tech Stacks</h2>
 
 ###
 
@@ -51,14 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MoonbamiOfficial&locale=en&mode=daily&theme=react&hide_border=true&border_radius=0&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MoonbamiOfficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonbamiOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
