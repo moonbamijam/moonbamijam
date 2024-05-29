@@ -62,26 +62,6 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/channels/@moonbamioffcl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
-  </a>
-  <a href="moonbamijamofficial15@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/MoonbamiOffcl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://twitter.com/Moonbami_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/moonbamidesu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="300" src="https://media.tenor.com/vUyzh_kWjAgAAAAM/akane-kurokawa-akane-oshi-no-ko.gif"  />
 </div>
 
