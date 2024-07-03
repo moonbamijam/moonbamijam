@@ -19,8 +19,17 @@
 
 ###
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- By favorites -->
+<!--     <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,godot,tailwind,sass,css,html,express,nodejs,mongodb,firebase,pnpm,vercel,vscode,ps,figma&perline=7" /> -->
+    <!-- By alphabetical -->
+    <img src="https://skillicons.dev/icons?i=css,express,figma,firebase,godot,html,js,mongodb,nextjs,nodejs,ps,pnpm,py,react,sass,tailwind,ts,vite,vscode&perline=7" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" height="40" alt="renpy logo"  />
   <img width="2" />
@@ -33,8 +42,9 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="2" /> -->
+<!--   <br /> -->
+<!--   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="2" />
@@ -47,13 +57,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="2" /> -->
+<!--   <br /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
+</div> -->
 
 ###
 
