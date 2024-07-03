@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- By favorites -->
-<!--     <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,godot,tailwind,sass,css,html,express,nodejs,mongodb,firebase,pnpm,vercel,vscode,ps,figma&perline=7" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,godot,tailwind,sass,css,html,express,nodejs,mongodb,firebase,pnpm,vscode,ps,figma&perline=7" /> -->
     <!-- By alphabetical -->
     <img src="https://skillicons.dev/icons?i=css,express,figma,firebase,godot,html,js,mongodb,nextjs,nodejs,ps,pnpm,py,react,sass,tailwind,ts,vite,vscode&perline=7" />
   </a>
