@@ -68,13 +68,13 @@
 
 ###
 
-<h3 align="center">Let's build from here!</h3>
+<!-- <h3 align="center">Let's build from here!</h3> -->
 
 ###
 
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/CWpHjMQ83zoAAAAd/mesmerizer-mesmerizer-32ki.gif"  />
-</div>
+<!-- <div align="center">
+  <img height="300" src="https://media1.tenor.com/m/CWpHjMQ83zoAAAAd/mesmerizer-mesmerizer-32ki.gif"  /> 
+</div> -->
 
 ###
 ---
