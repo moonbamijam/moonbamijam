@@ -24,7 +24,7 @@
     <!-- By favorites -->
 <!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,py,react,nextjs,vite,godot,tailwind,sass,css,html,express,nodejs,mongodb,firebase,pnpm,vscode,ps,figma&perline=7" /> -->
     <!-- By alphabetical -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,express,figma,firebase,godot,html,js,mongodb,nextjs,nodejs,ps,pnpm,py,react,sass,tailwind,ts,vite,vscode&perline=7" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,express,figma,firebase,godot,html,js,mongodb,nextjs,nodejs,ps,pnpm,py,react,renpy,sass,tailwind,ts,vite,vscode&perline=7" />
   </a>
 </p>
 
