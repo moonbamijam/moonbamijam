@@ -8,9 +8,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MoonbamiOfficial&locale=en&mode=daily&theme=react&hide_border=true&border_radius=0&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MoonbamiOfficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonbamiOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true" height="150" alt="languages graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MoonbamiOfficial&hide_title=false&hide_rank=false&show=reviews&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&bg_color=00000000&locale=en&hide_border=true#gh-dark-mode-only" height="180" alt="stats graph"  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonbamiOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=city_lights&bg_color=00000000&hide_border=true#gh-dark-mode-only" height="180" alt="languages graph"  />
 </div>
 
 ###
