@@ -11,10 +11,10 @@
 ###
 
 <div align="center">
-<img src="https://github.com/moonbamijam/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/moonbamijam/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/moonbamijam/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/moonbamijam/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<!-- <img src="https://github.com/moonbamijam/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> -->
+<!-- <img src="https://github.com/moonbamijam/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
+<!-- <img src="https://github.com/moonbamijam/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" /> -->
+<!-- <img src="https://github.com/moonbamijam/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" /> -->
 </div>
 
 ###
@@ -23,14 +23,14 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <!-- By favorites -->
 <!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,py,react,nextjs,vite,godot,tailwind,sass,css,html,express,nodejs,mongodb,firebase,pnpm,vscode,ps,figma&perline=7" /> -->
     <!-- By alphabetical -->
     <img src="https://go-skill-icons.vercel.app/api/icons?i=css,express,figma,firebase,godot,html,js,mongodb,nextjs,nodejs,ps,pnpm,py,react,renpy,sass,tailwind,ts,vite,vscode&perline=7" />
   </a>
-</p>
+</div>
 
 ###
 
