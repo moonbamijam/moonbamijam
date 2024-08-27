@@ -4,7 +4,9 @@
 ###
 
 <h3 align="center">Pursuing a career for being a developer. Still a novice, but making progress on a daily basis.</h3>
-
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/PyNliHCBh4IAAAAC/hoshimachi-suisei-hosimati-suisei.gif"  /> 
+</div> 
 
 ###
 
@@ -16,9 +18,7 @@
 </div>
 
 ###
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/PyNliHCBh4IAAAAC/hoshimachi-suisei-hosimati-suisei.gif"  /> 
-</div> 
+
 <!-- <h2 align="center">Tech Stacks</h2> -->
 
 ###
