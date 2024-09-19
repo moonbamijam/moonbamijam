@@ -5,8 +5,8 @@
 
 <h3 align="center">Pursuing a career for being a developer. Still a novice, but making progress on a daily basis.</h3>
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/PyNliHCBh4IAAAAC/hoshimachi-suisei-hosimati-suisei.gif"  /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonbamijam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=city_lights&bg_color=00000000&hide_border=true" height="180" alt="languages graph"  />
+  <img height="250" src="https://media1.tenor.com/m/PyNliHCBh4IAAAAC/hoshimachi-suisei-hosimati-suisei.gif"  /> 
 </div> 
 
 ###
