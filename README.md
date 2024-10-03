@@ -11,11 +11,7 @@
 <!--   <img height="200" src="https://64.media.tumblr.com/f03272a8cebede891b1e850675fa7b37/381a7a9e164998d6-0a/s640x960/7e7f38d23840e6c85351ba11b0d956450c1efcbf.gif"  />  -->
 </div> 
 
-
-
 <!-- <h2 align="center">Tech Stacks</h2> -->
-
-
 
 <div align="center">
   <a href="https://go-skill-icons.vercel.app/">
