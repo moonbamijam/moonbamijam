@@ -7,9 +7,6 @@
   <a href="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Komi_san_Python.png">Profile Picture</a>
 </div> 
 
-
-###
-
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=moonbamijam&hide_title=false&hide_rank=false&show=reviews&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&bg_color=00000000&locale=en&hide_border=true" height="200" alt="stats graph"  />  -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonbamijam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=city_lights&bg_color=00000000&hide_border=true" height="200" alt="languages graph"  /> -->
