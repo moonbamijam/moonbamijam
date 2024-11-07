@@ -3,6 +3,10 @@
 <h1>Hi there<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" /></h2>
 <p>I am Jam Moonbami, pursuing a career of being a Software Engineer that specializes full-stack web and game development. I have plenty experience in front-end area by building web apps with JavaScript and TypeScript. Currently, I am learning back-end area in a gradual phase to broaden my knowledge in web development using Python. As for game development, I am casually learning GDScript for Godot and also Python for Visual Novels.</p>
 <p align="right">"Create things that will someday make people love." — Moonbami</p>
+<div align="right">
+  <a href="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Komi_san_Python.png">Profile Picture</a>
+</div> 
+
 
 ###
 
