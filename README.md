@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Hi, I am Moonbami!<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" /></h1> -->
 <h2>Hi there<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" /></h2>
 <p>I am Jam Moonbami, pursuing a career of being a Software Engineer that specializes full-stack web and game development. I have plenty experience in front-end area by building web apps with JavaScript and TypeScript. Currently, I am learning back-end area in a gradual phase to broaden my knowledge in web development using Python. As for game development, I am casually learning GDScript with Godot and also Python with Ren'Py for Visual Novels.</p>
-<p align="right">"Create things that will someday make people love." — Moonbami</p>
+<p align="right"><i>"Create things that will someday make people love."</i> — <strong>Moonbami</strong></p>
 <div align="right">
   <a href="https://ph.pinterest.com/search/pins/?q=shouko%20komi&rs=typed">Profile Picture</a>
 </div> 
