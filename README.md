@@ -4,7 +4,7 @@
 <p>I am Jam Moonbami, pursuing a career of being a Software Engineer that specializes full-stack web and game development. I have plenty experience in front-end area by building web apps with JavaScript and TypeScript. Currently, I am learning back-end area in a gradual phase to broaden my knowledge in web development using Node.js and Express. As for game development, I am casually learning GDScript with Godot and also Python with Ren'Py for Visual Novels.</p>
 
 <div align="right">
-  <a href="https://ph.pinterest.com/search/pins/?q=himmel&rs=typed">Profile Picture</a>
+  <a href="https://ph.pinterest.com/search/pins/?q=fuyuki%20minami&rs=typed">Profile Picture</a>
 </div> 
 
 <div align="center">
