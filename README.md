@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://pbs.twimg.com/profile_banners/1425084046275596289/1722762039/1500x500) -->
 <!-- <h1 align="center">Hi, I am Moonbami!<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" /></h1> -->
-<h2>Hi there <img src="https://media.tenor.com/IOctag_MzAcAAAAi/wave.gif"/></h2>
+<h2>Hi there <img src="https://media.tenor.com/IOctag_MzAcAAAAi/wave.gif" width="50px" height="50px"/></h2>
 <p>I am Jam Moonbami, pursuing a career of being a Software Engineer that specializes web development. I have plenty experience in front-end area by building web apps with JavaScript and TypeScript. Currently, I am learning back-end area in a gradual phase to broaden my knowledge in web development using Express. I am also learning GDScript with Godot casually.</p>
 
 <div align="right">
